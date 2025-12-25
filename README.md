@@ -9,9 +9,9 @@ The goal is to evaluate campaign effectiveness across different platforms, campa
 
 ### 📁 Dataset
 
-**Source:** Social Media Advertising Dataset
-**Key Fields Used:**
+**Source:** Social Media Advertising Dataset(https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset)
 
+**Key Fields Used:**
 * Campaign ID
 * Channel Used (Facebook, Twitter, Instagram, Pinterest)
 * Campaign Goal
